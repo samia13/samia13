@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **samia13/samia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##### Meet me 😄 A backend developer, passionate about the frontend world ✨
+
+- 🔭 I’m currently working on my Frontend development skillset
+- 🌱 I’m currently learning GSAP & Three.js
+- 👯 I’m looking to collaborate on open source projects with React focus
+- 📫 How to reach me: mahisamia13@gmail.com
