@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 ##### Meet me 😄 A backend developer, passionate about the frontend world ✨
 
+- ✍ I recently enrolled a Frontend development hands-on-trainign program
 - 🔭 I’m currently working on my Frontend development skillset
 - 🌱 I’m currently learning GSAP & Three.js
 - 👯 I’m looking to collaborate on open source projects with React focus
