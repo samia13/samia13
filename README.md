@@ -2,7 +2,7 @@
 
 ### 🙋‍♀️ About me
 I'm a Backend developer, turning to Frontend Developer, i enjoy learning new technologies, and love building projects.
-i belive in learning via sharing, so i am writing woding posts and tips about Frontend development,
+i belive in learning via sharing, so i am writing coding posts and tips about Frontend development,
 Follow my [Instagram](https://www.instagram.com/samyscode/) to see my journey!  
 
 ### 📚 Teck Stack
