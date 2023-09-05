@@ -1,22 +1,21 @@
-### Hi there 👋
-<!--
-**samia13/samia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://github.com/samia13/samia13/blob/main/assets/banner.png)
 
-Here are some ideas to get you started:
+### 🙋‍♀️ About me
+I'm a Backend developer, turning to Frontend Developer, i enjoy learning new technologies, and love building projects.
+i belive in learning via sharing, so i am writing woding posts and tips about Frontend development,
+Follow my [Instagram](https://www.instagram.com/samyscode/) to see my journey!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-##### Meet me 😄 A backend developer, passionate about the frontend world ✨
+### 📚 Teck Stack
 
-- ✍ I recently enrolled a Frontend development hands-on-trainign program
-- 🔭 I’m currently working on my Frontend development skillset
-- 🌱 I’m currently learning GSAP & Three.js
-- 👯 I’m looking to collaborate on open source projects with React focus
-- 📫 How to reach me: mahisamia13@gmail.com
+· HTML5 · CSS3 · SASS · Tailwind · JavaScript · TypeScript · React · Next.js · GraphQl · PHP . Laravel . MySQL . MariaDB . Supabase  
+
+### 📖 Latest blog posts ✍
+- [Create a Rest API with json-server](https://samyscode.hashnode.dev/create-a-rest-api-with-json-server-in-minutes)
+
+### 🌱 Skills i'm developing lately
+. Gsap . Three.js . CSS animations
+
+### 📫 How to Reach me
+- mahisamia13@gmail.com
+- [Instagram page](https://www.instagram.com/samyscode/)
+- [My blog](https://samyscode.hashnode.dev/)
