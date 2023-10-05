@@ -20,3 +20,9 @@ Follow my [Instagram](https://www.instagram.com/samyscode/) to see my journey!
 - mahisamia13@gmail.com
 - [Instagram page](https://www.instagram.com/samyscode/)
 - [My blog](https://samyscode.hashnode.dev/)
+
+### 📊 My stats
+<div >
+  <img src="https://github-readme-stats.vercel.app/api?username=samia13&show_icons=true&theme=transparent" alt="samia mahi stats"/>
+  <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samia13&layout=compact" alt="samia mahi top used langs"/>
+</div>
