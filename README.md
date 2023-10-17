@@ -12,6 +12,8 @@ Follow my [Instagram](https://www.instagram.com/samyscode/) to see my journey!
 ### 📖 Latest blog posts ✍
 - [Create a Rest API with json-server](https://samyscode.hashnode.dev/create-a-rest-api-with-json-server-in-minutes)
 - [Demystifying JavaScript's Behavior with Primitives and Objects](https://samyscode.hashnode.dev/demystifying-javascripts-behavior-with-primitives-and-objects)
+- [Understanding Prototypal Inheritance in Javascript](https://samyscode.hashnode.dev/prototype-inheritance)
+- [Unraveling the magic of closures in Javascript](https://samyscode.hashnode.dev/unraveling-the-magic-of-closures-in-javascript)
 
 ### 🌱 Skills i'm developing lately
 . Gsap . Three.js . CSS animations
