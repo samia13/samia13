@@ -7,7 +7,7 @@ Follow my [Instagram](https://www.instagram.com/samyscode/) to see my journey!
 
 ### 📚 Teck Stack
 
-· HTML5 · CSS3 · SASS · Tailwind · JavaScript · TypeScript · React · Next.js · GraphQl · PHP . Laravel . MySQL . MariaDB . Supabase  
+· HTML5 · CSS3 · SASS · Tailwindcss · JavaScript · TypeScript · React · Next.js · GraphQl · PHP . Laravel . MySQL . MariaDB . Supabase  
 
 ### 📖 Latest blog posts ✍
 - [Create a Rest API with json-server](https://samyscode.hashnode.dev/create-a-rest-api-with-json-server-in-minutes)
@@ -16,7 +16,7 @@ Follow my [Instagram](https://www.instagram.com/samyscode/) to see my journey!
 - [Unraveling the magic of closures in Javascript](https://samyscode.hashnode.dev/unraveling-the-magic-of-closures-in-javascript)
 
 ### 🌱 Skills i'm developing lately
-. Gsap . Three.js . CSS animations
+. Gsap . React.js . CSS animations
 
 ### 📫 How to Reach me
 - mahisamia13@gmail.com
