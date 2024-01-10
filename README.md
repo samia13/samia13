@@ -1,5 +1,3 @@
-![banner](https://github.com/samia13/samia13/blob/main/assets/banner.png)
-
 ### 🙋‍♀️ About me
 I'm a Backend developer, turning to Frontend Developer, i enjoy learning new technologies, and love building projects.
 i belive in learning via sharing, so i am writing coding posts and tips about Frontend development,
