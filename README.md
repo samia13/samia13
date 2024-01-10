@@ -14,7 +14,7 @@ Follow my [Instagram](https://www.instagram.com/samyscode/) to see my journey!
 - [Unraveling the magic of closures in Javascript](https://samyscode.hashnode.dev/unraveling-the-magic-of-closures-in-javascript)
 
 ### 🌱 Skills i'm developing lately
-. Gsap . React.js . CSS animations
+. Typescript . Next.js . CSS animations
 
 ### 📫 How to Reach me
 - mahisamia13@gmail.com
