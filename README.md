@@ -18,7 +18,6 @@ Follow my [Instagram](https://www.instagram.com/samyscode/) to see my journey!
 
 ### 📫 How to Reach me
 - mahisamia13@gmail.com
-- [Instagram page](https://www.instagram.com/samyscode/)
 - [My blog](https://samyscode.hashnode.dev/)
 
 ### 📊 My stats
